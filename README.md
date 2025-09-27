@@ -148,7 +148,7 @@ Retrieval Parameters
     Chunk Overlap: 50 characters
 
     Retrieval Count: 5 most relevant chunks
-
+text
  Project Structure
 
 

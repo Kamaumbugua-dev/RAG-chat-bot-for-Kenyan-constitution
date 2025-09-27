@@ -148,18 +148,19 @@ Retrieval Parameters
     Chunk Overlap: 50 characters
 
     Retrieval Count: 5 most relevant chunks
-text
+    
+    
  Project Structure
 
 
-constitution-kenya-qa/
-├── constitution_qa_gui.ipynb      # Main application notebook
-├── The_Constitution_of_Kenya_2010.pdf  # Constitution document
-├── constitution_of_kenya.txt      # Processed text file
-├── .env                           # Environment variables (create)
-├── chroma/                        # Vector database (auto-generated)
-├── requirements.txt               # Python dependencies
-└── README.md                      # This file
+     constitution-kenya-qa/
+     ├── constitution_qa_gui.ipynb      # Main application notebook
+     ├── The_Constitution_of_Kenya_2010.pdf  # Constitution document
+     ├── constitution_of_kenya.txt      # Processed text file
+     ├── .env                           # Environment variables (create)
+     ├── chroma/                        # Vector database (auto-generated)
+     ├── requirements.txt               # Python dependencies
+     └── README.md                      # This file
 
  Features in Detail
 Accurate RAG System
